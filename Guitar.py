@@ -1,4 +1,5 @@
-#Guitar
+from InputType import InputType
+
 class Guitar:
     def __init__(args):
         self.neck = Neck()
