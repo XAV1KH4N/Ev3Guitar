@@ -8,4 +8,4 @@ ev3 = EV3Brick()
 # Write your program here.
 guitar = Guitar(ev3)
 guitar.start()
-print("done")
+print("Complete")
